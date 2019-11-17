@@ -1,5 +1,5 @@
 <template>
-  <div class="anim">
+  <div id="app" class="anim">
     <div class="mars item"></div>
     <div class="earth item"></div>
     <div class="venus item"></div>
