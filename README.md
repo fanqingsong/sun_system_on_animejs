@@ -1,3 +1,7 @@
+# demo
+
+![sun system mockup](demo.png)
+
 # src
 
 ## Project setup
