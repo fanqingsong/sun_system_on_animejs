@@ -1,5 +1,7 @@
 # demo
 
+all planets orbits around sun.
+
 ![sun system mockup](demo.png)
 
 # src
